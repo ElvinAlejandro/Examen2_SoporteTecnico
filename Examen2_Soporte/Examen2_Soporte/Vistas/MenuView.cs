@@ -15,14 +15,6 @@ namespace Examen2_Soporte.Vistas
             InitializeComponent();
         }
 
-        private void ribbonControlAdv1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void MenuView_Load(object sender, EventArgs e)
-        {
-
-        }
+    
     }
 }
